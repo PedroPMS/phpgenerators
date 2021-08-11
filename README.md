@@ -1,3 +1,3 @@
 # PHP Generators
 
-Testing some feature of PHP generators;
+Testing some features of PHP generators;
